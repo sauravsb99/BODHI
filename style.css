@@ -436,6 +436,11 @@ footer #social-media-footer ul li:hover a .fa-github {
   padding:8px;
 }
 
+  #logo-pic {
+    width:228px;
+    height:72px !important;
+  }
+
 
 /* Media Queries */
 
@@ -529,10 +534,6 @@ footer #social-media-footer ul li:hover a .fa-github {
     padding: 0;
   }
 
-  #logo-pic {
-    width:228px;
-    height:72px;
-  }
 }
 
 @media (min-width: 720px) {
