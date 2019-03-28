@@ -90,7 +90,7 @@ textarea:focus {
 
 nav {
   height: 72px;
-  background: #202125;
+  background: #000000;
   width: 100%;
   margin: 0;
   position: fixed;
@@ -130,7 +130,7 @@ nav ul {
 #logo-img {
   display: flex;
   height: 100%;
-  background: #111;
+  background: rgb(0, 0, 0);
   padding: 0 32px;
   align-items: center;
   color: white;
