@@ -528,6 +528,11 @@ footer #social-media-footer ul li:hover a .fa-github {
   #logo-img {
     padding: 0;
   }
+
+  #logo-pic {
+    width:228px;
+    height:72px;
+  }
 }
 
 @media (min-width: 720px) {
